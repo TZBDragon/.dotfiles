@@ -1,0 +1,6 @@
+set tabsize 4
+set autoindent
+set nohelp
+set linenumbers
+set constantshow
+
